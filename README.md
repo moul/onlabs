@@ -1,6 +1,6 @@
 
 [![GoDoc](https://godoc.org/github.com/lalyos/onlabs?status.png)](https://godoc.org/github.com/lalyos/onlabs)
-[![Travis](https://travis-ci.org/lalyos/onlabs.svg?branch=master)](https://travis-ci.org/lalyos/onlabs)
+[![Travis](https://travis-ci.org/lalyos/onlabs.svg?branch=master)](https://travis-ci.org/lalyos/onlabs) [![GuardRails badge](https://badges.production.guardrails.io/moul/onlabs.svg)](https://www.guardrails.io)
 
 This project is a go library for [Online Labs](https://cloud.online.net/).
 It also contains a command-line tool, which uses the [Online Labs API](https://doc.cloud.online.net/api/)
